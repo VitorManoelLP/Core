@@ -2,7 +2,7 @@ package com.applicationcore.core.util.test;
 
 import org.junit.Test;
 
-import com.fintech.demo.core.util.ProfilesUtil;
+import com.applicationcore.core.util.ProfilesUtil;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

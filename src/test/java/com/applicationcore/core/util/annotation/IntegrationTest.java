@@ -13,7 +13,7 @@ import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.fintech.demo.core.util.ProfilesUtil;
+import com.applicationcore.core.util.ProfilesUtil;
 
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

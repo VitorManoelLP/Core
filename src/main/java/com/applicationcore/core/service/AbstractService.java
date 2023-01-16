@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.fintech.demo.core.domain.EntityImp;
-import com.fintech.demo.core.repository.RepositoryImp;
+import com.applicationcore.core.domain.EntityImp;
+import com.applicationcore.core.repository.RepositoryImp;
 
 import lombok.Getter;
 import lombok.Setter;
